@@ -31,6 +31,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<Folder Include="BatchApplication\" />
 		<Folder Include="Properties\" />
 	</ItemGroup>
 
